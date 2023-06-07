@@ -31,7 +31,7 @@ def decrypt_folder(folder_path, key):
 key = b'L0LbPSjj+y6kBy+94vYZ0JdtJeUYVgOifyKmv3PmSPk='  # Replace this with your preferred encryption key
 
 # Example usages:
-encrypt_file('C:\\Users\\Korisnik\\Desktop\\Sajtovi\\file encrypt\\File after encryption.txt', key)
-#decrypt_file('', key)
-#encrypt_folder('path/to/folder', key)
-#decrypt_folder('path/to/folder', key)
+encrypt_file('path', key)
+#decrypt_file('path', key)
+#encrypt_folder('path', key)
+#decrypt_folder('path, key)
